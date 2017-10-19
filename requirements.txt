@@ -1,0 +1,3 @@
+six==1.10.0
+requests==2.11
+rtree==0.8.3
